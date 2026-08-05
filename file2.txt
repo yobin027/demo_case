@@ -6,3 +6,6 @@ git log
 git config --global --list
 git config --global user.name "yobin027"
 git config --global user.email "yobin.27ec@licet.ac.in"
+git switch -c master 
+
+git push -u origin master 

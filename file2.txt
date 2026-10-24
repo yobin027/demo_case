@@ -11,3 +11,6 @@ git push -u origin master
 git tag "tag name"
 git tag -a "tag name" -m "message"
 
+git add . 
+git commit -m "add to main"
+git push origin main 
